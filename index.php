@@ -1,3 +1,3 @@
 <?php
 
-echo "Kushan's Auzre Web App";
+echo "Kushan's Azure Web App from GitHub";
